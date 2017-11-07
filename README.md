@@ -2,4 +2,4 @@
 starter guide
 
 ### Hi everyone,
-#This is Frankie Fan Super.
+## This is Frankie Fan Super.
